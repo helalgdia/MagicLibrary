@@ -35,7 +35,9 @@ public class MagicLibrary {
 	 * @param args Actualmente el programa no analiza los par�metros de entrada al main
 	 */
 	public static void main(String[] args) {
+
 		log.info("Soy Helena");
+		log.info("Ejercicio nuevo");
 		log.info("Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 		log.log(Level.INFO, "Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 
